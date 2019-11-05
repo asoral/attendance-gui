@@ -1,0 +1,2 @@
+pyinstaller --onefile --
+hidden-import=babel.numbers dcl_attendance.py.py

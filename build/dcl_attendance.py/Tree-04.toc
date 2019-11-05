@@ -1,0 +1,5 @@
+('C:\\Users\\Administrator\\Documents\\Attendance_Dont_Delete\\build\\dcl_attendance.py\\frappeclient-0.1.0.dev0-py2.7.egg',
+ None,
+ set(['*.py', '*.pyc', '*.pyd', '*.pyw', 'EGG-INFO']),
+ 'DATA',
+ [])

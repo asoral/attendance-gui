@@ -1,0 +1,11 @@
+MANIFEST.in
+requirements.txt
+setup.py
+frappeclient/__init__.py
+frappeclient/frappeclient.py
+frappeclient/frappeclient_tests.py
+frappeclient.egg-info/PKG-INFO
+frappeclient.egg-info/SOURCES.txt
+frappeclient.egg-info/dependency_links.txt
+frappeclient.egg-info/requires.txt
+frappeclient.egg-info/top_level.txt
